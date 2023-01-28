@@ -1,4 +1,4 @@
-<div align="centerr">
+<div align="center">
 
 <img src="https://s.electerious.com/images/ackee/icon.png" title="Ackee" alt="Ackee logo" width="128">
 
