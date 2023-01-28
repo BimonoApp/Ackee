@@ -20,8 +20,7 @@ module.exports = {
                 throw new KnownError("Ackee username missing in environment");
             if (config.password == null)
                 throw new KnownError("Ackee password missing in environment");
-            console.log(username + "=> " + config.username);
-            console.log(password + "=> " + config.password);
+
             if (username !== config.username)
                 throw new KnownError("Username or password incorrect");
             if (password !== config.password)
